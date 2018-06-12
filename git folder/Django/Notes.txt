@@ -1,0 +1,12 @@
+OPENING DJANGO WEBSITE:
+
+Valable pour :
+python version : 3.7.0b4
+Django version : 2.2
+
+Ouvrir un terminal et se placer dans le dossier du projet.(django_project)
+taper : $ python3 manage.py runserver
+
+Ouvrir un navigateur web et rentrer l’url : http://localhost:8000/informations/
+
+NB: pour toute aide se référer à : https://www.djangoproject.com/
